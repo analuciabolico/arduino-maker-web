@@ -20,7 +20,7 @@ but work with robotics) of public schools in Brazil.
 
 ## Members
 
-[@Ana Lucia](https://github.com/analuciabolico)
+[@Bolicos](https://github.com/bolicos)
 
 ## Notion
 
@@ -32,7 +32,7 @@ but work with robotics) of public schools in Brazil.
 
 ## Backend
 
-[Arduino Maker BFF](https://github.com/analuciabolico/arduino-maker-bff)
+[Arduino Maker BFF](https://github.com/bolicos/arduino-maker-bff)
 
 ## Programming Languages
 
